@@ -1,6 +1,6 @@
 # Jawaban HackerRank Algorithm 
 <br>
-<p>Pada repo ini, saya berikan solusi saya atas permasalahan atau soal yang ada di hackerrank bagian 'algorithm'</p>
+<p>Pada repo ini, diberikan solusi (versi saya) atas permasalahan yang ada di hackerrank pada bagian 'algorithm'</p>
 <ol>
   <li>Solve me first</li>
   <li>Simple array sum</li>
