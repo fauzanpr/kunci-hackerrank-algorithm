@@ -6,6 +6,6 @@
 <ol>
   <li>Membuat variabel sum bertipe long dengan inisialisasi awal adalah elemen pertama dari list</li>
   <li>Variabel tersebut nantinya akan menyimpan penjumlahan elemen yang ada pada list sekaligus akan menjadi nilai kembalian dari method tersebut</li>
-  <li>Proses penjumlahan dilakukan menggunakan looping sampai indeks terakhir dan melakukan penjumlahan dengan elemen pada indeks ke-i</li>
+  <li>Proses penjumlahan dilakukan menggunakan looping sampai indeks terakhir dan melakukan penjumlahan pada nilai variabel sum dengan elemen pada indeks ke-i</li>
   <li>Setelah proses looping selesai, maka seluruh elemen yang ada pada list telah dijumlahkan yang nilai penjumlahannya disimpan pada variabel sum</li>
 </ol>
