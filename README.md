@@ -9,4 +9,5 @@
   <li>Diagonal Difference</li>
   <li>Plus minus</li>
   <li>Staircase</li>
+  <li>Mini max sum</li>
 </ol>
