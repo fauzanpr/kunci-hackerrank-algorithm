@@ -8,4 +8,5 @@
   <li>A very big sum</li>
   <li>Diagonal Difference</li>
   <li>Plus minus</li>
+  <li>Staircase</li>
 </ol>
