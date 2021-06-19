@@ -10,4 +10,5 @@
   <li>Plus minus</li>
   <li>Staircase</li>
   <li>Mini max sum</li>
+  <li>Birthday cake candles</li>
 </ol>
