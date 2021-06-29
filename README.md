@@ -12,4 +12,5 @@
   <li>Mini max sum</li>
   <li>Birthday cake candles</li>
   <li>Time Conversion</li>
+  <li>Grading Students</li>
 </ol>
