@@ -28,13 +28,9 @@ Returns int: sum of <b>a and b</b>
 a = 2
 b = 3
 ```
-<br />
-
 ### Sample Output
 ```
 5
 ```
-<br />
-
 ### Explanation
 **2 + 3 = 5**
