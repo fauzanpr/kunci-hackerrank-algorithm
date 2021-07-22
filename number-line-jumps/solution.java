@@ -37,13 +37,9 @@ class Result {
         } else if (x2 > x1 && 2*v1 < v2) {
             return "NO";
         } else {
-            int tmp = x2;
             for (int i = 1; i < 10000; i++) {
                 x1 += v1;
-                x2 = tmp;
-                for (int j = 1; j <= i; j++) {
-                    x2 += v2;
-                }
+                x2 += v2;
                 if (x1 == x2) return "YES";
             }
             return "NO";
