@@ -1,6 +1,7 @@
 # Jawaban HackerRank Algorithm 
 <br>
-<p>Pada repo ini, diberikan solusi (versi saya) atas permasalahan yang ada di hackerrank pada bagian 'algorithm'</p>
+<p>Solusi (versi saya) permasalahan pada hackerrank 'algorithm'</p>
+<p><b>Language Used : Java</b></p>
 <ol>
   <li><a href="https://github.com/fauzanpr/kunci-hackerrank-algorithm/tree/main/solve-me-first">Solve me first</a></li>
   <li><a href="https://github.com/fauzanpr/kunci-hackerrank-algorithm/tree/main/simple-array-sum">Simple array sum</a></li>
